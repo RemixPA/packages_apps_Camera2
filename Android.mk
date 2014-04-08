@@ -38,5 +38,3 @@ else
 endif
 
 include $(BUILD_PACKAGE)
-
-include $(call all-makefiles-under, $(LOCAL_PATH))
